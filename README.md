@@ -1,7 +1,6 @@
 # ContasBancarias-CSharp
-projeto de criação de contas de um banco
 
-Conceitos praticados:
+<h3>Conceitos praticados:</h3>
 
 Propriedades somente leitura, com omissão do setter;
 O operador nameof();
